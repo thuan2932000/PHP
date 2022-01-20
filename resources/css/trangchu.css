@@ -138,6 +138,7 @@ h1{
     height: 600px;
     background: #FDE8B3;
     border-radius:20px ;
+    
   
 }
 
@@ -170,15 +171,13 @@ ul{
 
 /* ------ */
 .ticket-1{
-
-border: 2px dashed #FFFFFF;
-position: absolute;
-left: 68%;
-right: 17%;
-top: 32%;
-bottom: 61.74%;
-background: linear-gradient(176.02deg, #FF000A -12.67%, #C2000B 101.08%);
-border-radius:20px ;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -50px;
+    width: 300px;
+    border: 2px dashed #FFFFFF;
+    background: linear-gradient(176.02deg, #FF000A -12.67%, #C2000B 101.08%);
+    border-radius:20px ;
 
 
 
@@ -186,7 +185,6 @@ border-radius:20px ;
 
 .text-ticket{
     padding-left: 50px;
-    position: absolute;
     font-weight: 900;
     font-size: 28px;
     color: #FFFFFF;
