@@ -37,7 +37,7 @@
 .main li a{
     text-decoration: none;
     color: white;
-    font-size: 110%;
+    font-size: 25px;
     font-weight: 700;
     transition: all .3s;
     border-radius: 2px;
@@ -137,7 +137,8 @@ h1{
     width: 1450px;
     height: 600px;
     background: #FDE8B3;
-    border-radius:20px ;
+    border-radius:35px ;
+    box-shadow: 0px 20px #FFCA7B;
     
   
 }
@@ -160,13 +161,13 @@ ul{
 }
 
 .block-1-1{
-    border-radius: 20px;
+    border-radius: 35px;
     border: 3px dashed #FFB489;
     margin-top: 20px;
     margin-left: 20px;
     background: #FFF6D4;
     height: 550px;
-
+    
 }
 
 /* ------ */
