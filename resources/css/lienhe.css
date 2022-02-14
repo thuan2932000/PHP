@@ -192,3 +192,128 @@ h1{
     padding-top: 30px;
 }
 
+p{
+    margin-top: 64px;
+    margin-Left: 50px;
+    margin-right: 50px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.formm{
+    display: flex;
+}
+
+.ten{
+    position: static;
+    width: 293px;
+    height: 56px;
+    margin-Left: 50px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    padding-left: 20px;
+
+    background: #FFFFFF;
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+}
+
+.email{
+    
+        position: static;
+        width: 450px;
+        height: 56px;
+        margin-Left: 50px;
+        font-size: 15px;
+        padding-left: 20px;
+    
+        background: #FFFFFF;
+    
+        box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+        border-radius: 16px;
+    
+}
+
+.sdt{
+    
+    position: static;
+    width: 293px;
+    height: 56px;
+    margin-top: 100px;
+    margin-Left: -845px;
+    font-size: 15px;
+    padding-left: 20px;
+
+    background: #FFFFFF;
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+
+}
+
+.diachi{
+    
+    position: static;
+    width: 450px;
+    height: 56px;
+    margin-top: 100px;
+    margin-Left: -475px;
+    font-size: 15px;
+    padding-left: 20px;
+
+    background: #FFFFFF;
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+
+}
+
+
+.loinhan{
+    
+    position: static;
+    width: 825px;
+    height: 200px;
+    margin-top: 200px;
+    margin-Left: -845px;
+    font-size: 15px;
+    padding-left: 20px;
+    
+    background: #FFFFFF;
+
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+
+}
+
+
+
+.lienhe{
+    
+    position: static;
+    margin-top: 450px;
+    margin-Left: -600px;
+
+    width: 300px;
+    height: 60px;
+    background: #FF000A;
+    border-radius: 16px;
+    font-size: 28px;
+    color: white;
+    font-family: iCiel Koni;
+    font-weight: 900;
+    transition: all 0.3s;
+    box-shadow: 0px 5px  #93000A ;
+    
+
+}
+
+.lienhe:hover,
+.lienhe:active{
+    background: #93000A ;
+}
+
