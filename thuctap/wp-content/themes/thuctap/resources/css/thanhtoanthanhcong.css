@@ -1,0 +1,266 @@
+.container {
+    position: absolute;
+    width: 1900px;
+    height: 150vh;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    border-radius:20px ;
+    background: #ED7200;
+    box-shadow: 0px 4px 35px rgba(162, 58, 0, 0.75);
+    
+  }
+ 
+ .background{
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-right: 50px;
+    height: 130vh;
+    background: linear-gradient(0deg, #FF8B2C 1.71%, #FF8D2A 4.22%, #FFA413 37.82%, #FFB105 69.39%, #FFB600 96.65%);
+    opacity: 0.8;
+    border-radius:20px ;
+}
+/*-------------------------*/  
+
+.main{
+    float: right;
+    list-style: none;
+    margin-right: 20%;
+    margin-top: 40px;
+}
+  
+.main li{
+    display: inline-block;
+    margin-right: 40px;
+}
+  
+.main li a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    transition: all .3s;
+    border-radius: 2px;
+}
+  
+.main li a:hover,
+.main li a:active{
+    border-bottom: 1px solid #b2adfc;
+}
+
+/*--------------------*/
+.logo{
+    position: absolute;
+    width: 229px;
+    height: 91px;
+    left: 200px;
+    top: 1px;
+}
+
+/* ----------- */
+h1{
+    text-align: center;
+    font-size: 120px;
+    color: white;
+    padding-top: 50px;
+    font: bold;
+    
+    
+}
+
+/* ------------- */
+.khung1{
+    position: absolute;
+    width: 1500px;
+    height: 700px;
+    margin-left: 205px;
+    background: #FDE8B3;
+    background: #FDE8B3;
+    border-radius:35px ;
+    box-shadow: 0px 20px #FFCA7B;
+}
+.khung2{
+    position: absolute;
+    width: 1475px;
+    border-radius: 35px;
+    border: 3px dashed #FFB489;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #FFF6D4;
+    height: 675px;
+}
+/* ---------- */
+.khung3{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background: white;
+    
+}
+/* ---------- */
+.khung4{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 430px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background: white;
+    
+}
+/* ---------- */
+.khung5{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 760px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background: white;
+    
+}
+/* ---------- */
+.khung6{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 1090px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background: white;
+    
+}
+/* ------------ */
+.ALT{
+    margin-top:40px;
+    margin-left: 75px;
+}
+h2{
+    margin-left: 45px;
+    font-size: 35px;
+}
+.p1{
+    position: absolute;
+    margin-left: 91px;
+    margin-top: -5px;
+
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFC226;
+}
+.p2{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 125px;
+    margin-top: -5px;
+}
+.p3{
+
+    margin-left: 50px;
+    margin-top: -25px;
+    
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+.p4{
+    margin-top: 625px;
+    margin-left: 100px;
+    font-weight: bolder;
+    font-size: 20px;
+    float: left;
+}
+
+.p5{
+    margin-top: 625px;
+    margin-right: 100px;
+    font-weight: bolder;
+    font-size: 20px;
+    float: right;
+}
+
+span{
+    margin-left: 125px;
+    Width: 48px;
+    Height: 48px;
+    border-radius: 35px;
+    position: absolute; 
+    background: #44C4A1;
+}
+
+.check{
+    position: absolute; 
+    margin-left: 8px;
+    margin-top: 12px;
+    
+
+    
+}
+
+.logo1{
+    margin-top: 120px;
+    margin-left: -523px;
+    Width :350px;    
+    Height :594px;
+
+}
+.lienhe{
+    
+    position: static;
+    margin-top: 25px;
+    margin-Left: 550px;
+
+    width: 160px;
+    height: 35px;
+    background: #FF000A;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+    transition: all 0.3s;
+    box-shadow: 0px 5px  #93000A ;
+
+    
+
+}
+
+.lienhe:hover,
+.lienhe:active{
+    background: #93000A ;
+}
+
+
+.lienhe1{
+    
+    position: static;
+    margin-top: 25px;
+    margin-Left: 15px;
+
+    width: 160px;
+    height: 35px;
+    background: #FF000A;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+    transition: all 0.3s;
+    box-shadow: 0px 5px  #93000A ;
+
+    
+
+}
+
+.lienhe1:hover,
+.lienhe1:active{
+    background: #93000A ;
+}
+
+

@@ -1,0 +1,210 @@
+.container {
+    position: absolute;
+    width: 1900px;
+    height: 150vh;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    border-radius:20px ;
+    background: #ED7200;
+    box-shadow: 0px 4px 35px rgba(162, 58, 0, 0.75);
+    
+  }
+ 
+ .background{
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-right: 50px;
+    height: 130vh;
+    background: linear-gradient(0deg, #FF8B2C 1.71%, #FF8D2A 4.22%, #FFA413 37.82%, #FFB105 69.39%, #FFB600 96.65%);
+    opacity: 0.8;
+    border-radius:20px ;
+}
+/*-------------------------*/  
+
+.main{
+    float: right;
+    list-style: none;
+    margin-right: 20%;
+    margin-top: 40px;
+}
+  
+.main li{
+    display: inline-block;
+    margin-right: 40px;
+}
+  
+.main li a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    transition: all .3s;
+    border-radius: 2px;
+}
+  
+.main li a:hover,
+.main li a:active{
+    border-bottom: 1px solid #b2adfc;
+}
+
+/*--------------------*/
+.logo{
+    position: absolute;
+    width: 229px;
+    height: 91px;
+    left: 200px;
+    top: 1px;
+}
+
+/* ----------- */
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    padding-top: 50px;
+    
+}
+
+/* ------------- */
+
+.sukien1{
+    position: static;
+    width: 356px;
+    height: 300px;
+
+    flex: none;    
+    margin-left: 0px;
+    margin-top: -300px;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    
+}
+
+.khung1{
+    margin-left: 150px;
+    margin-top: 330px;
+    width: 356px;
+    height: 300px;
+    background: white;
+    border-radius:20px ;
+    float: left;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+.damsen{
+    margin-top: -15px;
+    margin-left: 20px;
+}
+
+.date{
+    margin-left: 20px;
+    margin-top: -5px;
+}
+
+.vnd{
+    margin-top: 15px;
+    font-size: 35px;
+    margin-left: 20px;
+    color: #FA7D09;
+    font-weight: bold;
+}
+
+.xemchitiet{
+    position: absolute;
+    font-family: iCiel Koni;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #FFFFFF;
+    background: #FF000A;
+    width: 180px;
+    height: 35px;
+
+    margin-left: 20px;
+    margin-top: -5px;
+    border-radius:8px ;
+    box-shadow: 0px 3px  #93000A ;
+}
+
+
+/* --------------- */
+
+.sukien2{
+    position: static;
+    width: 356px;
+    height: 300px;
+
+    flex: none;    
+    margin-left: 0px;
+    margin-top: -300px;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    
+}
+
+.khung2{
+    margin-left: 30px;
+    margin-top: 330px;
+    width: 356px;
+    height: 300px;
+    background: white;
+    border-radius:20px ;
+    float: left;
+}
+
+/* ------- */
+
+.sukien3{
+    position: static;
+    width: 356px;
+    height: 300px;
+
+    flex: none;    
+    margin-left: 0px;
+    margin-top: -300px;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    
+}
+
+.khung3{
+    margin-left: 30px;
+    margin-top: 330px;
+    width: 356px;
+    height: 300px;
+    background: white;
+    border-radius:20px ;
+    float: left;
+}
+
+/* --------- */
+
+.sukien4{
+    position: static;
+    width: 356px;
+    height: 300px;
+
+    flex: none;    
+    margin-left: 0px;
+    margin-top: -300px;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    
+}
+
+.khung4{
+    margin-left: 30px;
+    margin-top: 330px;
+    width: 356px;
+    height: 300px;
+    background: white;
+    border-radius:20px ;
+    float: left;
+}
