@@ -1,0 +1,228 @@
+
+/* ------------------------------------------------- */
+/* ------------------Header------------------------ */
+header{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 15px rgba(49, 83, 119, 0.15);
+    height: 90px;
+}
+
+.main{
+    float: right;
+    list-style: none;
+    margin-right: 380px;
+    margin-top: 30px;
+}
+
+.main li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.main li a {
+    position: static;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #030609;
+}
+
+.main li a:hover,
+.main li a:active{
+    color: #4677AB;
+    transition: all .3s;
+}
+
+
+.clearfix::after{
+    content:" ";
+    display: table;
+    clear: both;
+}
+
+
+.logo{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+
+/* ------------------------------------------------- */
+/* ------------------background------------------------ */
+
+.ASIA{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 80px;
+    Width :125px;
+    Height :97px;
+}
+
+p{
+    position: absolute;
+    margin-left: 53.5%;
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 43px;
+    letter-spacing: 0.005em;
+
+    color: #315377;
+
+}
+
+.quat1{
+    margin-top: 250px;
+    margin-left: 110px;
+    Width:180px;
+    Height:150px;
+
+    background: #F5F6F7;
+    border-radius: 16px;
+}
+
+.quat{
+    margin-top: 250px;
+    margin-left: 10px;
+    Width:180px;
+    Height:150px;
+
+    background: #F5F6F7;
+    border-radius: 16px;
+}
+
+/* ------------------------------------------------- */
+/* ------------------backgroundtwo------------------------ */
+
+
+
+.khung1{
+    position: absolute;
+    margin-top: 190px;
+    Width:600px;
+    Height:800px;
+    background: #315377;
+}
+
+.ASIA-FA{
+    position: absolute;
+    Width: 965px;
+    Height:939px;
+    margin-top: 50px;
+    margin-left: 38%;
+}
+
+
+.thanhthoat{
+
+    margin-left: 120px;
+    margin-top: 100px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 65px;
+    line-height: 86px;
+    /* identical to box height */
+
+
+    /* Yellow / 1 */
+
+    color: #EFCA83;
+}
+
+.vengoai{
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 310px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 56px;
+    /* identical to box height */
+
+
+    /* Yellow / 1 */
+
+    color: #EFCA83;
+
+}
+
+.manhme{
+
+    margin-left: 120px;
+    margin-top: 250px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 126px;
+
+    color: #EFCA83;
+}
+
+.bentrong{
+
+    margin-left: 100px;
+    margin-top: 350px;
+    margin-left: 255px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 65px;
+
+    color: #EFCA83;
+}
+
+.TATDIEUHOA{
+    position: absolute;
+    margin-top: 475px;
+    margin-left: 38%;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    opacity: 0.9;
+}
+
+hr{
+    margin-top: 505px;
+}
+
+
+.BAT{
+    position: absolute;
+    margin-top: 515px;
+    margin-left: 38%;
+
+
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.ASIA1{
+    margin-top: -30px;
+    margin-left: 50%;
+
+}
