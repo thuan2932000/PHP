@@ -1,11 +1,37 @@
 /*
-Theme Name: ASIAN FANS
-Theme URI: http://localhost/thuctap
-Author: Nguyễn Văn Thuấn
-Description: Template thực tập php
-Requires at Least: WordPress 5.0
-Text Domain: glw
-Version: 1.0.0
-Tags: php, theme, free, blog
-Domain Path
- */
+Theme Name: ASIAvina Fans
+Description: Website
+Theme URL:https://www.facebook.com/profile.php?id=100022709926905 ;
+Version: 1.0
+Author : Văn Thuấn
+Author URL: ;
+Tags: ;
+Text Domain: asiavinafans
+Languages Folder: /languages;
+*/
+
+.slider {
+    /* Slider */
+    position: relative;
+    width: 1920px;
+    height: 939px;
+    left: 0px;
+    margin-top: 0px;
+}
+
+h2 {
+    width: 857px;
+    height: 75px;
+    left: 532px;
+    top: 3090px;
+    /* Roboto / 64 Light */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 75px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    /* Bdazzled Blue / Default */
+    color: #315377;
+}

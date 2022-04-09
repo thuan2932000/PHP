@@ -32,7 +32,7 @@ msgstr "Mua ngay"
 msgid "The Store"
 msgstr "Cửa hàng"
 
-#: classes/class-twentytwenty-customize.php:130
+#: classes/class-twentytwenty-customize.php:129
 msgctxt "color"
 msgid "Default"
 msgstr "Mặc định"
@@ -75,11 +75,11 @@ msgstr "Trang chủ mới của bạn đã sẵn sàng"
 msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
 msgstr "Xem lưu trữ <span aria-hidden=\"true\">&rarr;</span>"
 
-#: classes/class-twentytwenty-customize.php:357
+#: classes/class-twentytwenty-customize.php:356
 msgid "Overlay Background Color"
 msgstr "Màu nền lớp phủ"
 
-#: classes/class-twentytwenty-customize.php:400
+#: classes/class-twentytwenty-customize.php:399
 msgid "Overlay Opacity"
 msgstr "Độ trong suốt lớp phủ"
 
@@ -142,7 +142,7 @@ msgstr "Trở thành thành viên của chúng tôi và nhận những thông ti
 msgid "Join the Club"
 msgstr "Đăng ký"
 
-#: classes/class-twentytwenty-customize.php:128
+#: classes/class-twentytwenty-customize.php:127
 msgid "Primary Color"
 msgstr "Màu chính"
 
@@ -151,15 +151,15 @@ msgctxt "A string that is output before one or more categories"
 msgid "In"
 msgstr "Trong"
 
-#: classes/class-twentytwenty-customize.php:380
+#: classes/class-twentytwenty-customize.php:379
 msgid "The color used for the text in the overlay."
 msgstr "Màu của chữ trên nền phủ."
 
-#: classes/class-twentytwenty-customize.php:379
+#: classes/class-twentytwenty-customize.php:378
 msgid "Overlay Text Color"
 msgstr "Màu chữ nền phủ"
 
-#: classes/class-twentytwenty-customize.php:358
+#: classes/class-twentytwenty-customize.php:357
 msgid "The color used for the overlay. Defaults to the accent color."
 msgstr "Màu nền phủ. Mặc định sử dụng màu phụ."
 
@@ -189,12 +189,12 @@ msgid "Y"
 msgstr "Y"
 
 #. translators: %s: HTML character for up arrow.
-#: footer.php:55
+#: footer.php:49
 msgid "Up %s"
 msgstr "Lên  trên %s"
 
 #. translators: %s: HTML character for up arrow.
-#: footer.php:49
+#: footer.php:43
 msgid "To the top %s"
 msgstr "Lên trên cùng %s"
 
@@ -327,7 +327,7 @@ msgstr "Social Menu"
 msgid "Mobile Menu"
 msgstr "Menu di động"
 
-#: footer.php:39
+#: footer.php:33
 msgid "Powered by WordPress"
 msgstr "Xây dựng bằng WordPress"
 
@@ -339,12 +339,12 @@ msgstr "Các bình luận trước"
 msgid "Newer Comments"
 msgstr "Các bình luận mới hơn"
 
-#: classes/class-twentytwenty-walker-page.php:115 inc/template-tags.php:580
+#: classes/class-twentytwenty-walker-page.php:110 inc/template-tags.php:580
 msgid "Show sub menu"
 msgstr "Hiển thị menu con"
 
 #. translators: %d: ID of a post.
-#: classes/class-twentytwenty-walker-page.php:78
+#: classes/class-twentytwenty-walker-page.php:73
 msgid "#%d (no title)"
 msgstr "#%d (không đề)"
 
@@ -356,11 +356,11 @@ msgstr "Bởi tác giả"
 msgid "says:"
 msgstr "nói:"
 
-#: classes/class-twentytwenty-customize.php:230
+#: classes/class-twentytwenty-customize.php:229
 msgid "Show search in header"
 msgstr "Hiển thị tìm kiếm ở header"
 
-#: classes/class-twentytwenty-customize.php:86
+#: classes/class-twentytwenty-customize.php:85
 msgid "Retina logo"
 msgstr "Retina logo"
 
@@ -432,10 +432,11 @@ msgstr "Widget ở vị trí này sẽ hiển thị ở cột thứ hai ở foot
 msgid "Post"
 msgstr "Bài viết"
 
-#: classes/class-twentytwenty-customize.php:106
+#: classes/class-twentytwenty-customize.php:105
 msgid "Header &amp; Footer Background Color"
 msgstr "Màu nền Đầu trang &amp; Cuối trang"
 
+#. translators: %s: Author name.
 #. translators: %s: Author name.
 #: inc/template-tags.php:375 template-parts/entry-author-bio.php:20
 msgid "By %s"
@@ -454,11 +455,11 @@ msgstr "Tìm &hellip;"
 msgid "Sticky post"
 msgstr "Bài đính lên"
 
-#: classes/class-twentytwenty-customize.php:274
+#: classes/class-twentytwenty-customize.php:273
 msgid "Full text"
 msgstr "Chữ đầy đủ"
 
-#: classes/class-twentytwenty-customize.php:310
+#: classes/class-twentytwenty-customize.php:309
 msgid "Fixed Background Image"
 msgstr "Ảnh nền cố định"
 
@@ -496,12 +497,12 @@ msgstr "Cũ hơn <span class=\"nav-short\">Bài viết</span>"
 msgid "Newer <span class=\"nav-short\">Posts</span>"
 msgstr "Mới hơn <span class=\"nav-short\">Bài viết</span>"
 
-#: classes/class-twentytwenty-customize.php:207
+#: classes/class-twentytwenty-customize.php:206
 msgid "Theme Options"
 msgstr "Tùy chọn giao diện"
 
 #. Template Name of the theme
-#: classes/class-twentytwenty-customize.php:286
+#: classes/class-twentytwenty-customize.php:285
 msgid "Cover Template"
 msgstr "Giao diện Cover"
 
@@ -509,20 +510,20 @@ msgstr "Giao diện Cover"
 msgid "Expanded Social links"
 msgstr "Liên kết mạng xã hội đã mở rộng"
 
-#: classes/class-twentytwenty-customize.php:275
+#: classes/class-twentytwenty-customize.php:274
 msgid "Summary"
 msgstr "Tóm tắt"
 
-#: classes/class-twentytwenty-customize.php:311
+#: classes/class-twentytwenty-customize.php:310
 msgid "Creates a parallax effect when the visitor scrolls."
 msgstr "Tạo hiệu ứng chuyển động khi người dùng kéo xuống."
 
-#: classes/class-twentytwenty-customize.php:272
+#: classes/class-twentytwenty-customize.php:271
 msgid "On archive pages, posts show:"
 msgstr "Trong các trang lưu trữ, bài viết hiển thị:"
 
 #. Author URI of the theme
-#: footer.php:38
+#: footer.php:32
 msgid "https://wordpress.org/"
 msgstr "https://vi.wordpress.org/"
 
